@@ -1,6 +1,5 @@
 
-### https://checaplagio-1-a4780033.deta.app/
-
+### Navegue online: https://checaplagio-1-a4780033.deta.app/
 
 ## Como rodar
 
@@ -11,7 +10,7 @@
  - Inserir `texto original` e `texto suspeito de plágio` na aba `Home` em `https://checaplagio-1-a4780033.deta.app/`.
  - Clicar no botão `Checar`.
 
- **3. Na asba `Como usar` do APP (`http:\\...\como_usar`) há exemplos para ajudar.**
+ **3. Na asba `Como usar` do APP (`https://checaplagio-1-a4780033.deta.app/how_to`) há exemplos para ajudar.**
 
 
 <hr>
