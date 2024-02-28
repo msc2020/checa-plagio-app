@@ -30,7 +30,7 @@ pip install -r requeriments.txt
 
 **3. Rodar o APP:**
 ```shell
-python app.py
+python main.py
 ```
 
 **4. Acessar o localhost (onde o APP está rodando) `0.0.0.0:8080`:**
