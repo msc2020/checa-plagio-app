@@ -1,0 +1,9 @@
+.venv
+.space
+.env
+notebooks
+tests
+backups
+refs
+Discovery.md
+Spacefile
