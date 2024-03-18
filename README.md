@@ -1,3 +1,6 @@
+<img src="./static/how_to.gif" width="99%" height="99%">
+
+<hr>
 
 ### Navegue online: https://checaplagio-1-a4780033.deta.app/
 
@@ -11,7 +14,6 @@
  - Clicar no botão `Checar`.
 
  **3. Na asba `Como usar` do APP (`https://checaplagio-1-a4780033.deta.app/how_to`) há exemplos para ajudar.**
-
 
 <hr>
 
@@ -42,4 +44,4 @@ python main.py
 
 <hr>
 
-<img src="./static/how_to.gif" width="99%" height="99%">
+- https://dev.to/msc2020/parte-1-aplicacao-flask-contendo-recursos-de-iaml-desenvolvimento-e-deploy-gratuitos-3cl2
